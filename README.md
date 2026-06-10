@@ -45,7 +45,7 @@ Ao aplicar o modelo na base de clientes, conseguimos mapear o grupo de maior ris
 
 ## 📂 Estrutura do Repositório
 
-*   `data/`: Pasta com a base de dados utilizada (ou link para a fonte original).
+*   `data/`: Pasta com a base de dados utilizada.
 *   `notebooks/`: O arquivo principal `analise_churn.ipynb` com todo o código.
 *   `images/`: Gráficos exportados utilizados neste relatório.
 
