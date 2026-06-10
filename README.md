@@ -55,4 +55,4 @@ Ao aplicar o modelo na base de clientes, conseguimos mapear o grupo de maior ris
 
 Desenvolvido por **Felipe Pocai**  
 *   LinkedIn: www.linkedin.com/in/felipe-pocai-12773731
-*   E-mail: felipepocai@hotmail.com"""))
+*   E-mail: felipepocai@hotmail.com
